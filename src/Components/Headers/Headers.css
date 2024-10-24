@@ -1,0 +1,24 @@
+/* .headers {
+border: 1px solid ;
+}
+.navItem{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.img{   
+    width: 100px;
+    height: 100px;
+}
+.orderItem{
+    list-style: none;
+    display: flex;
+    padding-right: 20px;
+    align-items: center;
+}
+.listItem{
+    margin-left: 3px;
+    margin-right: 3px;
+
+} */
